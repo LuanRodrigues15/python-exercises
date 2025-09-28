@@ -28,7 +28,7 @@ Este curso é ideal tanto para iniciantes quanto para desenvolvedores que deseja
 
 ## Lista de Exercícios
 
-A lista de exercícios que estou resolvendo durante o curso está disponível na pasta [`ListaExercicios`](./ListaExercicios).  
+A lista de exercícios que estou resolvendo durante o curso está disponível na pasta [`lista-exercicios`](./lista-exercicios).  
 Se quiser praticar, fique à vontade para tentar resolver os desafios por conta própria antes de conferir as minhas soluções. É uma ótima forma de testar seus conhecimentos e comparar abordagens diferentes!
 
 ---

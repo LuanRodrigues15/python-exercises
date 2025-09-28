@@ -1,6 +1,6 @@
 # Exercícios de Python - 100 Days of Code: The Complete Python Pro Bootcamp
 
-Este repositório contém os exercícios realizados durante o curso **100 Days of Code: The Complete Python Pro Bootcamp** na Udemy. O curso oferece uma imersão no desenvolvimento em Python, com foco em projetos práticos, resolução de problemas e construção de um portfólio sólido de aplicações.
+Este repositório contém exercícios práticos e projetos realizados em cada dia durante o curso **100 Days of Code: The Complete Python Pro Bootcamp** na Udemy. O curso oferece uma imersão no desenvolvimento em Python, com foco em projetos práticos, resolução de problemas e construção de um portfólio sólido de aplicações.
 
 ## Sobre o Curso
 
@@ -26,13 +26,7 @@ Este curso é ideal tanto para iniciantes quanto para desenvolvedores que deseja
 
 ---
 
-## Lista de Exercícios
-
-A lista de exercícios que estou resolvendo durante o curso está disponível na pasta [`lista-exercicios`](./lista-exercicios).  
-Se quiser praticar, fique à vontade para tentar resolver os desafios por conta própria antes de conferir as minhas soluções. É uma ótima forma de testar seus conhecimentos e comparar abordagens diferentes!
+## Minhas Soluções
+Os exercícios práticos e os projetos feitos a cada dia estão organizadas na pasta [`minhas-solucoes`](./minhas-solucoes).
 
 ---
-
-## Minhas Soluções
-
-As soluções dos exercícios resolvidos por mim estão organizadas na pasta [`minhas-solucoes`](./minhas-solucoes).

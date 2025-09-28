@@ -27,6 +27,6 @@ Este curso é ideal tanto para iniciantes quanto para desenvolvedores que deseja
 ---
 
 ## Minhas Soluções
-Os exercícios práticos e os projetos feitos a cada dia estão organizadas na pasta [`minhas-solucoes`](./minhas-solucoes).
+Os exercícios práticos e os projetos feitos a cada dia estão organizadas na pasta [`minhas_solucoes`](./minhas_solucoes).
 
 ---

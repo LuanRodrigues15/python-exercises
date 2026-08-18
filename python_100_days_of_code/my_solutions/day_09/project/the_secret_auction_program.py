@@ -37,10 +37,11 @@ highestBid = 0.0
 
 for key in bidders:
     if bidders[key] > highestBid:
+        print(bidders[key])
         highestBid = bidders[key]
         winner = key
 
-os.system("cls")
+
 
 print(f"The winner is {name} with a bid of ${highestBid}")
 # Another option (wouldn't need 'For')

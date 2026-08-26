@@ -3,6 +3,7 @@ student_scores = [180, 124, 199, 100, 50, 30, 173]
 maxFor = 0
 sumFor = 0
 for score in student_scores:
+    print(score)
     if (score > maxFor):
         maxFor = score
     

@@ -35,14 +35,11 @@ while continue_bidding:
 winner = ""
 highestBid = 0.0
 
-for key in bidders:
-    if bidders[key] > highestBid:
-        print(bidders[key])
-        highestBid = bidders[key]
+for key, value in bidders.items():
+    if value > highestBid:
+        highestBid = value
         winner = key
-
-
-
-print(f"The winner is {name} with a bid of ${highestBid}")
+        
+print(f"The winner is {winner} with a bid of ${highestBid}")
 # Another option (wouldn't need 'For')
 # print(f"The winner is {max(bidders, key=bidders.get)} with a bid of ${bidders[max(bidders, key=bidders.get)]}")

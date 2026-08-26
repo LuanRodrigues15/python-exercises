@@ -17,3 +17,6 @@ for key in student_scores:
         student_grades[key] = "Acceptable"
     else:
         student_grades[key] = "Fail"
+
+for key, value in student_grades.items():
+    print(f"{key}: {value}")

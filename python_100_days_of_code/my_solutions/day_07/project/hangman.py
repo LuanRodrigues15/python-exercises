@@ -87,7 +87,7 @@ while not game_over:
     print(f"Você tem {vida} de Vida")
     
     display = ""
-    
+
     for letra in palavra_escolhida:
         if letra == resposta:
             display += letra

@@ -1,8 +1,6 @@
 import random
 import os
 
-number = random.randint(1,100)
-
 start_game = True
 while start_game:    
     print("Welcome to the Number Guessing Game!")
@@ -11,8 +9,9 @@ while start_game:
     if game == 'n':
         print("Ok, thanks!")
         break
-    
+
     os.system('cls')
+    number = random.randint(1,100)
     print("I'm thinking of a number between 1 and 100.")
     
 
